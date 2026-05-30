@@ -31,9 +31,7 @@ The application allows users to:
 # 🌐 Live Demo
 
 🚀 This project has been successfully deployed on Streamlit Cloud and can be accessed online.
-
 🔗 Live Application: [https://bank-management-system-6.streamlit.app]
-
 The deployed application allows users to interact with the Bank Management System directly through a web browser without any local installation.
 
 ---
@@ -127,8 +125,8 @@ This project includes multiple real-world validations such as:
 
 ---
 
-📸 Application Functionalities
-🏠 Home Interface
+# 📸 Application Functionalities
+## 🏠 Home Interface
 
 - Clean sidebar navigation
 - Interactive banking operations
@@ -136,18 +134,18 @@ This project includes multiple real-world validations such as:
 
 ---
 
-🏦 Banking Operations Supported
+## 🏦 Banking Operations Supported
 
-✔ Account Creation
-✔ Deposits
-✔ Withdrawals
-✔ User Information Updates
-✔ Account Deletion
-✔ Account Detail Viewing
+✔ Account Creation <br>
+✔ Deposits <br>
+✔ Withdrawals <br>
+✔ Account Detail Viewing <br>
+✔ User Information Updates <br>
+✔ Account Deletion 
 
 ---
 
-🔮 Future Improvements
+# 🔮 Future Improvements
 
 * MySQL / PostgreSQL Database Integration
 * Password Encryption
@@ -160,7 +158,7 @@ This project includes multiple real-world validations such as:
 
 ---
 
-🎯 Learning Outcomes
+# 🎯 Learning Outcomes
 
 Through this project, I learned:
 
@@ -175,7 +173,7 @@ Through this project, I learned:
 
 ---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Rahul Jimmy <br>
 Aspiring Data Scientist / Machine Learning Engineer 
