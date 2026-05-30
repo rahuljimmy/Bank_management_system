@@ -1,4 +1,4 @@
-# 🏦 Bank Management System
+# 🏦 Bank Management System (Python Project)
 
 A professional and interactive **Bank Management System** built using **Python** and Streamlit.  
 This project simulates real-world banking operations through a clean, user-friendly, and interactive web application.
