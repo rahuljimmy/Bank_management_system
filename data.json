@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Rahul Jimmy",
+        "age": 23,
+        "email": "rahul1809@gmail.com",
+        "pin": 9081,
+        "account_no": "85fVD2$",
+        "balance": 159000
+    },
+    {
+        "name": "Rohit Jimmy",
+        "age": 19,
+        "email": "rohit1303@gmail.com",
+        "pin": 9201,
+        "account_no": "!Qh8S25",
+        "balance": 0
+    },
+    {
+        "name": "Akarsh Vyas",
+        "age": 24,
+        "email": "akarsh3567@gmail.com",
+        "pin": 5627,
+        "account_no": "9Ak&55T",
+        "balance": 0
+    },
+    {
+        "name": "Lionel Messi",
+        "age": 38,
+        "email": "lm10@gmail.com",
+        "pin": 1019,
+        "account_no": "9y7*5Hd",
+        "balance": 2000
+    },
+    {
+        "name": "Neymar Jr",
+        "age": 40,
+        "email": "nj10@gmail.com",
+        "pin": 1011,
+        "account_no": "PT90z%9",
+        "balance": 5900
+    },
+    {
+        "name": "Maria Francis",
+        "age": 45,
+        "email": "maria28@gmail.com",
+        "pin": 428,
+        "account_no": "N321N8C",
+        "balance": 400
+    }
+]
