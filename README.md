@@ -30,8 +30,8 @@ The application allows users to:
 
 # 🌐 Live Demo
 
-🚀 This project has been successfully deployed on Streamlit Cloud and can be accessed online.
-🔗 Live Application: [https://bank-management-system-6.streamlit.app]
+🚀 This project has been successfully deployed on Streamlit Cloud and can be accessed online. <br>
+🔗 Live Application: [https://bank-management-system-6.streamlit.app] <br>
 The deployed application allows users to interact with the Bank Management System directly through a web browser without any local installation.
 
 ---
