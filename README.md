@@ -28,6 +28,16 @@ The application allows users to:
 
 ---
 
+# 🌐 Live Demo
+
+🚀 This project has been successfully deployed on Streamlit Cloud and can be accessed online.
+
+🔗 Live Application: [https://bank-management-system-6.streamlit.app]
+
+The deployed application allows users to interact with the Bank Management System directly through a web browser without any local installation.
+
+---
+
 # 🛠️ Technologies Used
 
 | Technology | Purpose |
@@ -117,17 +127,57 @@ This project includes multiple real-world validations such as:
 
 ---
 
-# 🎨 Interactive User Experience
+📸 Application Functionalities
+🏠 Home Interface
 
-The application provides:
+- Clean sidebar navigation
+- Interactive banking operations
+- User-friendly design
 
-🟢 Green Success Notifications  
-🔴 Red Error Notifications  
-🟡 Warning Messages  
+---
 
-Using Streamlit alert components like:
+🏦 Banking Operations Supported
 
-```python
-st.success()
-st.error()
-st.warning()
+✔ Account Creation
+✔ Deposits
+✔ Withdrawals
+✔ User Information Updates
+✔ Account Deletion
+✔ Account Detail Viewing
+
+---
+
+🔮 Future Improvements
+
+* MySQL / PostgreSQL Database Integration
+* Password Encryption
+* Transaction History
+* Login & Registration System
+* Admin Dashboard
+* Email Notifications
+* Money Transfer Feature
+* ATM Simulation System
+
+---
+
+🎯 Learning Outcomes
+
+Through this project, I learned:
+
+- Python OOP Concepts
+- JSON File Handling
+- Backend Logic Development
+- Streamlit Web Development
+- Input Validation
+- Error Handling
+- Real-World Project Structuring
+- User Authentication Basics
+
+---
+
+👨‍💻 Author
+
+Rahul Jimmy <br>
+Aspiring Data Scientist / Machine Learning Engineer 
+
+---
